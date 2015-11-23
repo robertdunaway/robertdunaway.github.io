@@ -422,13 +422,13 @@ header.subpage {
 	background-size:cover;
 }
 .download-resume.parallax-image{
-	background-image:url(../images/download-resume.jpg);
+	background-image:url(../images/splash-img.jpg);
 }
 .recognitions.parallax-image{
-	background-image:url(../images/recognitions.jpg);
+	background-image:url(../images/splash-img.jpg);
 }
 .milestones-bg.parallax-image{
-	background-image:url(../images/milestones-bg.jpg);
+	background-image:url(../images/splash-img.jpg);
 }
 .parallax-area .page-overlay{
 	position:absolute;
